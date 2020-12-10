@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...**abhishekkhajuria0001@gmail.com**
 - ⚡ Fun fact: ...**i just wanna die with my shit pc that often inrealistic**
 -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekhajuria&show_icons=true" alt="abhishekhajuria" /></p>
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/abhishekhajuria" target="_blank">
