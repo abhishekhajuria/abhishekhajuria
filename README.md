@@ -5,7 +5,6 @@
 <h1 align="center">I'm ABHISHEK KHAJURIA</h1>
 
 
-**i am a 2nd year student, pursing my Bachelors in Computer science **
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekhajuria" alt="abhishekhajuria" /> </p>
