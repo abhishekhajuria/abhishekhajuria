@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...**i just wanna die with my shit pc that often inrealistic**
 -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekhajuria&show_icons=true" alt="abhishekhajuria" /></p>
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekhajuria&layout=compact&hide=html" alt="abhishekhajuria" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekhajuria&layout=compact&hide=html" alt="abhishekhajuria" /></p>
 
 ## Connect with me  
 <div align="center">
