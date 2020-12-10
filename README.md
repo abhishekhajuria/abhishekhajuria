@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...**i just wanna die with my shit pc that often inrealistic**
 -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekhajuria&show_icons=true" alt="abhishekhajuria" /></p>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragativerma18&layout=compact&hide=html" alt="pragativerma18" /></p>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekhajuria&layout=compact&hide=html" alt="abhishekhajuria" /></p>
 
 ## Connect with me  
 <div align="center">
