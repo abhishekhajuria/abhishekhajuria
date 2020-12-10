@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...hardworking peoples , wanna do amazing stuffs 
 - 📫 How to reach me: ...**abhishekkhajuria0001@gmail.com**
 - ⚡ Fun fact: ...**i just wanna die with my shit pc that often inrealistic**
+-  ♚-♞ chess
 -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekhajuria&show_icons=true" alt="abhishekhajuria" /></p>
 
