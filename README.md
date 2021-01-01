@@ -26,8 +26,13 @@ Here are some ideas to get you started:
 <a href="https://github.com/abhishekhajuria" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/im_khajuria"><img src="https://img.icons8.com/clouds/75/000000/twitter.png"/></a>
- <a href="https://www.linkedin.com/in/abhishek-khajuria-28a669146/"><img src="https://img.icons8.com/clouds/75/000000/linkedin.png"/></a>
+<a href="https://twitter.com/im_khajuria" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+ <a href="https://linkedin.com/in/abhishek-khajuria-28a669146/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+
 
   <a href="https://dev.to/abhishekhajuria">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="abhishek khajuria's DEV Profile" height="30" width="30">
