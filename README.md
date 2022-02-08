@@ -19,6 +19,20 @@ Here are some ideas to get you started:
 -  ♚-♞ chess
 -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekhajuria&show_icons=true" alt="abhishekhajuria" /></p>
+<table align="center" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td>
+      <a href="https://github.com/abhishekhajuria">
+        <img src="https://github-readme-stats.vercel.app/api?username=abhishekhajuria&show_icons=true&include_all_commits=true&theme=tokyonight">
+      <a/>
+    </td>
+    <td>
+      <a href="https://github.com/abhishekhajuria">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekhajuria&layout=compact&theme=tokyonight">
+      <a/>
+    </td>
+   </tr>
+</table>
 
 
 ## Connect with me  
