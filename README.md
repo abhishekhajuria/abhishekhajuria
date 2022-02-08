@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...**i just wanna die with my shit pc that often inrealistic**
 -  ♚-♞ chess
 -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekhajuria&show_icons=true" alt="abhishekhajuria" /></p>
+
 <table align="center" cellspacing="0" cellpadding="0" border="0">
   <tr>
     <td>
