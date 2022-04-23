@@ -12,7 +12,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...**Data science, ML**
-- 🌱 I’m currently learning ...**R language , DAA**
 - 🤔 I’m looking for help with ...hardworking peoples , wanna do amazing stuffs 
 - 📫 How to reach me: ...**abhishekkhajuria0001@gmail.com**
 - ⚡ Fun fact: ...**i just wanna die with my shit pc that often inrealistic**
