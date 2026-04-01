@@ -9,13 +9,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekhajuria" alt="abhishekhajuria" /> </p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...**Data science, ML**
-- 🤔 I’m looking for help with ...hardworking peoples , wanna do amazing stuffs 
-- 📫 How to reach me: ...**abhishekkhajuria0001@gmail.com**
-- ⚡ Fun fact: ...**i just wanna die with my shit pc that often inrealistic**
--  ♚-♞ chess
 -->
 
 <table align="center" cellspacing="0" cellpadding="0" border="0">
